@@ -9,6 +9,7 @@ name = gets.chomp
 
 10.times { |i| puts name + (i+1).to_s }
 
+## ALTERNATE
 ## Use do/end block for multiple lines of code AND curly braces {} for single line of code
 # 10.times do |i|
 #   name_count = name + (i+1).to_s

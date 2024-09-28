@@ -12,10 +12,10 @@ def convert_string(str)
     str
   end
 
-  # NOT RECOMMENDED
+  ## NOT RECOMMENDED
   # if str.length > 10 then str.upcase else str end
 
-  # OPTIMIZATION
+  ## OPTIMIZATION
   # (str.length > 10) ? str.upcase : str
 end
 
