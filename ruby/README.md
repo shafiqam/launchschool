@@ -23,7 +23,7 @@ git clone https://github.com/shafiqam/launchschool.git
 
 ### 3. Run the program:
 
-Execute any of the exercise programs in the format below. For exercises that are not executable, the answers are provided as comments in the file.
+Execute any of the exercise programs in the format below. For exercises that do not print anything, the answers are provided as comments in the file.
 ```
 ruby <filename>.rb
 ```
